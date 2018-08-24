@@ -1,0 +1,167 @@
+body,html{
+	height: 100%;
+	margin: 0;
+	font-size: 16px;
+	font-family: "Lato",sans-serif;
+	font-weight: 400;
+	line-height: 1.0cm;
+	color: #666;
+}
+.kimg1,.kimg2,.kimg3,.kimg4{
+	position:relative;
+	
+	background-position: center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.kimg1{
+	background-image: url('../IMG/dami.jpg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+
+	
+}
+.kimg2{
+	background-image: url('../IMG/kalari.jpg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 600px;
+
+}
+.kimg3{
+	background-image: url('../IMG/kadakali.jpg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 800px;
+}
+.kimg4{
+	background-image: url('../IMG/tris.jpg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 500px;
+}
+.section{
+	text-align: center;
+	padding: 50px 80px;
+}
+.section-light{
+	background-color: #f4f4f4;
+	color:green;
+}
+
+.section-dark{
+	background-color: #f6f6f6;
+	color:blue;
+
+}
+.ktext{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align:center;
+	color: white;
+	font-size:50px;
+    letter-spacing: 8px;
+}
+@media(max-width: 600px){
+	.kimg1,.kimg2,.kimg3{
+		height:1000px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body,html{
+	height: 100%;
+	margin: 0;
+	font-size: 16px;
+	font-family: "Lato",sans-serif;
+	font-weight: 400;
+	line-height: 1.0cm;
+	color: #666;
+}
+.oimg1,.oimg2,.oimg3,.oimg4{
+	position:relative;
+	
+	background-position: center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.oimg1{
+	background-image: url('../IMG/ater.jpg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+
+	
+}
+.oimg2{
+	background-image: url('../IMG/food.png');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 600px;
+
+}
+.oimg3{
+	background-image: url('../IMG/loooo.png');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 800px;
+}
+.oimg4{
+	background-image: url('../IMG/volunteer.ppg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 500px;
+}
+.sectionn{
+	text-align: center;
+	padding: 50px 80px;
+}
+.sectionn-light{
+	background-color: #f4f4f4;
+	color:green;
+}
+
+.sectionn-dark{
+	background-color: #f6f6f6;
+	color:blue;
+
+}
+.otext{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align:center;
+	color: white;
+	font-size:50px;
+    letter-spacing: 8px;
+}
+@media(max-width: 600px){
+	.oimg1,.oimg2,.oimg3{
+		height:1000px;
+	}
+}
+
+
+
+
+
+
+
